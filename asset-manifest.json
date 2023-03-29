@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tedinho13/router.git/static/css/main.18d24531.css",
+    "main.js": "/Tedinho13/router.git/static/js/main.baa9375c.js",
+    "static/media/header1.jpg": "/Tedinho13/router.git/static/media/header1.e210d6237c4df53a92ae.jpg",
+    "static/media/header3.jpg": "/Tedinho13/router.git/static/media/header3.1b8172a4f8d865e14fe5.jpg",
+    "static/media/header2.jpg": "/Tedinho13/router.git/static/media/header2.26d6661b147a114ff1c9.jpg",
+    "index.html": "/Tedinho13/router.git/index.html",
+    "main.18d24531.css.map": "/Tedinho13/router.git/static/css/main.18d24531.css.map",
+    "main.baa9375c.js.map": "/Tedinho13/router.git/static/js/main.baa9375c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18d24531.css",
+    "static/js/main.baa9375c.js"
+  ]
+}
